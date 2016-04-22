@@ -1,0 +1,26 @@
+{
+  "author": {
+    "email": "ideal.life.generator@gmail.com",
+    "name": "Ideal Life"
+  },
+  "bugs": {
+    "email": "ideal.life.generator@gmail.com",
+    "url": "https://github.com/ideal-life/reducer-interface/issues"
+  },
+  "description": "Work with reducer as interface",
+  "homepage": "https://github.com/ideal-life/reducer-interface/#readme",
+  "keywords": [
+    "react",
+    "redux",
+    "reducer",,
+    "reducer interface"
+    "reducer-interface"
+  ],
+  "license": "MIT",
+  "name": "reducer-interface",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideal-life/reducer-interface.git"
+  },
+  "version": "1.0.0"
+}
