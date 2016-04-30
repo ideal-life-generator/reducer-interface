@@ -117,33 +117,33 @@ export default reducerInterface(Game, {
 })
 ```
 
-## Interface methods
+## Methods
 
 #### merge(data)
 
 Can be used in cases manually or in Interface methods.
 
 ```js
-...
+// ...
 
 [MERGING_MANUALLY]({ data }) {
   this.merge(data)
 }
 
-...
+// ... or ...
 
 [MERGING_IN_METHOD]({ data }) {
   this.update(data)
 }
 
 class Example {
-  ...
+  // ...
 
   update(data) {
     this.merge(data)
   }
 
-  ...
+  // ...
 }
 ```
 
